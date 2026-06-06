@@ -21,6 +21,12 @@ Monitor target domains for new and removed subdomains over time. Integrates subf
 
 ---
 
+## Tech Stack
+
+`Python 3.9+` `CLI` `JSON/Markdown/HTML Reporting`
+
+---
+
 ## Installation
 
 ```bash
