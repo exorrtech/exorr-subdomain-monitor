@@ -2,6 +2,7 @@
 
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/exorrtech/exorr-subdomain-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/exorr-subdomain-monitor/actions/workflows/ci.yml)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
 **Continuous subdomain discovery and change tracking** by EXORR Security.
@@ -22,6 +23,9 @@ Monitor target domains for new and removed subdomains over time. Integrates subf
 ---
 
 ## Tech Stack
+
+`Python 3.9+` `subfinder` `DNS` `JSON Snapshots`
+
 
 `Python 3.9+` `CLI` `JSON/Markdown/HTML Reporting`
 
