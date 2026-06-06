@@ -5,7 +5,7 @@
 [![CI](https://github.com/exorrtech/exorr-subdomain-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/exorr-subdomain-monitor/actions/workflows/ci.yml)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-**Continuous subdomain discovery and change tracking** by EXORR Security.
+**Continuous subdomain discovery and change tracking** by ∅ EXORR.
 
 Monitor target domains for new and removed subdomains over time. Integrates subfinder for passive recon and built-in DNS enumeration as a fallback. Detects changes between runs and generates timestamped snapshots.
 
@@ -138,4 +138,4 @@ pytest tests/ -v
 
 ---
 
-*Walk with the void. EXORR Security*
+*Walk with the void. ∅ EXORR*
