@@ -9,7 +9,7 @@ description = "EXORR Subdomain Monitor — continuous subdomain discovery and ch
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
-authors = [{name = "EXORR Security", email = "exorrnull@gmail.com"}]
+authors = [{name = "EXORR Security", email = "ops@exorr.tech"}]
 keywords = ["subdomain", "monitor", "recon", "security", "change-detection"]
 classifiers = [
     "Development Status :: 4 - Beta",
